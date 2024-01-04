@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -35,8 +34,9 @@
 <body>
     <img id="gatinho" src="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" alt="Gatinho digitando">
     <h1 id="titulo">&#128571; MiauCat Papelaria Virtual </h1>
-    <p id="slogan">#Temos o melhor para você!</p>
+    <p id="slogan">Temos o melhor para você!</p>
 </body>
 </html>
+ 
 
 
