@@ -1,4 +1,4 @@
-# Projeto E-commerce
+# E-commerce
 
 Bem-vindo à MiauCat Papelaria Virtual🐾
 
